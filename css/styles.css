@@ -1,0 +1,12 @@
+body
+{
+    margin-top: 500px;
+    background-color: black;
+}
+
+#zombietomb
+{
+    margin: auto;
+    width:100px;
+    height:100px;
+}
